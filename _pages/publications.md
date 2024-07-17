@@ -3,8 +3,8 @@ layout: page
 permalink: /publications/
 title: Publications
 description: (* indicates equal contributions)
-nav: true
-nav_order: 2
+nav: false
+nav_order:
 ---
 
 <!-- _pages/publications.md -->

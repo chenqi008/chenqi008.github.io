@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://chenqi008.github.io/sitemap.xml
+Sitemap: https://qi-chen.com/sitemap.xml

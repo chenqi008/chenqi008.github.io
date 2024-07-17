@@ -1,25 +1,23 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: bio_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a postdoctoral researcher at the Australian Institute for Machine Learning (AIML), University of Adelaide. I am a member of [V3A Lab](https://v3alab.github.io/). I received my Ph.D. in computer science from the University of Adelaide in 2024, supervised by A/Prof. [Qi Wu](https://scholar.google.co.uk/citations?user=aKXe1FEAAAAJ&hl=en) and Asst. Prof. [Yuankai Qi](https://scholar.google.com/citations?user=mLqg5hYAAAAJ&hl=en). Prior to my Ph.D., I completed my master's degree at South China University of Technology, under the supervision of Prof. [Jian Chen](https://baike.baidu.com/item/%E9%99%88%E5%81%A5/12740630) and Prof. [Mingkui Tan](https://scholar.google.com.au/citations?user=EVsoTGkAAAAJ&hl=en).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on computer vision, multi-modality, and generative models. I have published several papers in top conferences/journals in artificial intelligence and computer vision, including IEEE-TPAMI/TIP/TMM, CVPR, NeurIPS, ICCV, etc. I also serve as the reviewer for several top-tier conferences and journals including CVPR, ICML, ICLR, NeurIPS, ICCV, ECCV, TPAMI, IJCV, etc.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+🌟🌟 <span style="color:red">I am currently on the job market.</span>  🌟🌟

@@ -8,7 +8,7 @@ middle_name:
 last_name: 
 email: qi.chen04@adelaide.edu.au
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I am currently a postdoctoral researcher at the Australian Institute for Machine Learning (AIML), University of Adelaide. I received my Ph.D. in computer science from the University of Adelaide in 2024. My research focuses on computer vision, multi-modality, and generative models. I have published several papers in top conferences/journals in artificial intelligence and computer vision, including IEEE-TPAMI/TIP/TMM, CVPR, NeurIPS, ICCV, etc. I also serve as the reviewer for several top-tier conferences and journals including CVPR, ICML, ICLR, NeurIPS, ICCV, ECCV, TPAMI, IJCV, etc.
+  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -242,7 +242,7 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
+  - _pages/about_me.md
   - purgecss.config.js
   - README.md
   - readme_preview/

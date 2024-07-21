@@ -20,4 +20,4 @@ I am currently a postdoctoral researcher at the [Australian Institute for Machin
 
 My research focuses on computer vision, multi-modality, and generative models. I have published several papers in top conferences/journals in artificial intelligence and computer vision, including IEEE-TPAMI/TIP/TMM, CVPR, NeurIPS, ICCV, etc. I also serve as the reviewer for several top-tier conferences and journals including CVPR, ICML, ICLR, NeurIPS, ICCV, ECCV, TPAMI, IJCV, etc.
 
-🌟🌟 <span style="color:red">I am currently on the job market.</span>  🌟🌟
+🌟🌟 <span style="color:red">I am currently on the job market (Postdoc or research scientist).</span>  🌟🌟

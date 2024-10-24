@@ -20,4 +20,4 @@ I am currently a postdoctoral researcher at the [Australian Institute for Machin
 
 My research focuses mainly on Controllable Generative AI for Multi-modality, (Multimodal) Large Language Models (LLMs), and Multimodal AI for Real-world Applications/Domains (e.g., Medicine, Architecture, and the Internet). I have over 20 peer-reviewed publications, most in flagship journals/conference proceedings, including IEEE-TPAMI/TIP/TMM, CVPR, NeurIPS, ICCV, etc. His research has attracted over 1,100 citations with an H-index of 14 (Google Scholar). I also serve as a reviewer for top-tier journals/conference proceedings, including Nature Communications, IEEE-TPAMI, IJCV, CVPR, ICML, NeurIPS, ICLR, ICCV, ECCV, etc.
 
-🌟🌟 <span style="color:red">I am currently on the job market (Postdoc or research scientist).</span>  🌟🌟
+🌟🌟 <span style="color:red">I am currently on the job market (Assistant Prof. or Research Scientist).</span>  🌟🌟

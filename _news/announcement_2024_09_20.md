@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted by ACCV 2024 (Oral)!
+One paper is accepted by **ACCV 2024 (Oral)**!

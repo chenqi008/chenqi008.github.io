@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-12-19
+date: 2026-04-07
 inline: true
 related_posts: false
 ---
 
-One paper is accepted by AAAI 2024!
+One paper is accepted by IJCV!

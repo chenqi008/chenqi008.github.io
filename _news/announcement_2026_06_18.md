@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I serve as an **Associate Editor (AE)** at **Visual Intelligence**
+I serve as an **Associate Editor (AE)** at **Visual Intelligence**!

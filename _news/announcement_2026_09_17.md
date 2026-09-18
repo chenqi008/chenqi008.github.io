@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will serve as a **Area Chair (AC)** at **ICLR 2027**!
+I will serve as an **Area Chair (AC)** at **ICLR 2027**!
